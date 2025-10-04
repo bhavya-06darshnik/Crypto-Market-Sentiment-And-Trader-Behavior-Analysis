@@ -1,1 +1,1 @@
-# Crypto-Market-Sentiment-And-Trader-Behavior-Analysis
+# Trade-Behavior-Analysis-Insights
